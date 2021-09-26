@@ -1,0 +1,22 @@
+body{
+    color: darkblue;
+    background-color: red;
+    border: 20px solid limegreen;
+}
+.heading{
+    width: 80%;
+    font-size: 50px;
+}
+.name_of_objects,.result_object_name,.result_object_accuracy{
+    color: cyan;
+    font-size: 50px;
+}
+#camera{
+    border: 20px solid limegreen;
+    width: 350px;
+    height: 300px;
+    box-shadow: 3px 4px 20px black;
+}
+label{
+    font-size: 30px;
+}
